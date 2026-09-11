@@ -1,0 +1,116 @@
+[EAGLE]Dark_Angel | 1540.5 | Active | 2
+[WOLF]Shadow_Fox | 980.25 | Active |
+[EAGLE]Shadow_Fox | 2213.0 | Active | 1
+[DUSK]Red_Baron | 2443.0 | Active | 4
+[WOLF]Shadow_Fox | 980.25 | Active
+[RAVEN]Iron_Bear | 2210 | active | 1
+[RAVEN]Lady_Vex | 1875.4 | BROKEN | 3
+[IRON]Grim_Reaper | 1300.0 | Repairing | 1
+[IRON]Silent_Bow | 2500.75 | Destroyed | 0
+[DUSK]Red_Baron | 2152.0 | Active | 2
+[VIPER]Sky_Lance | 2298.5 | Active | 4
+[STORM]Red_Baron | 1999.99 | Overheated | 2
+[EAGLE]Silent_Bow | 559.78 | Active | 2
+[STORM]Frost_Mage | 1800.0 | Active | 12
+[SKUL]Stone_Fist | 1250.5 | Active | -1
+[ORDA]Silent_Bow | 2020.7 | Broken | 4
+[SKUL]Night_Owl | 1100.0 | Broken | 1.5
+[VIPER]Sir_Kay | 1420.0 | Active | N/A
+[VIPER]Dark_Angel | 503.0 | Broken | 4
+[WOLF]War_Drum | 2737.7 | Active | 4
+[IRON]Night_Owl | 2619.0 | Active | 1
+[IRON]Red_Baron | 450.0 | Active | 1
+[VIPER]Blaze_Runner | 1540,5 | Active | 2
+[EAGLE]Night_Owl | 3950.0 | Active | 2
+[SKUL]Quick_Silver | 609.38 | Active | 2
+[VIPER]Steel_Rat | 2922.6 | Broken | 1
+[DUSK]Stone_Fist | 544.8 | Active | 1
+[ORDA]Void_Walker | -300.0 | Active | 1
+[ORDA]Hex_Witch | 0 | Active | 3
+[DUSK]Bone_King | 1200 | Active | 0
+[DUSK]Lone_Star | 666.67 | Active | 0
+[IRON]Silent_Bow | 2205.0 | Broken | 
+[WOLF]Shadow_Fox | 850.37 | Active | 1
+[DUSK]Old_Nick | 2538.7 | Active | 0
+[WOLF]War_Drum | 3980.0 | Active | 4
+[NOVA]Quick_Silver | 1.2e3 | Active | 1
+[ORDA]Void_Walker | 3981.2 | Active | 2
+[NOVA]Lady_Vex | 1112.0 | Active | 1
+[NOVA]War_Drum | inf | Active | 2
+[EAGLE]Ash_Priest | 1 540.5 | Active | 1
+[ORDA]Ember_Wyrm | 2997.7 | Broken | 0
+[EAGLE]Steel_Rat | 999999999.99 | Active | 4
+[DUSK]Void_Walker | 3166.0 | Active | 1
+[WOLF]Sir Lancelot | 1330.0 | Active | 2
+[IRON]Void_Walker | 3687.56 | Active | 2
+[NOVA]Steel_Rat | 2622.9 | Active | 4
+[EAGLE]Bright_Spear | 3591.3 | Broken | 
+[ORDA]Iron_Bear | 598.0 | Active | 2
+[EAGLE]Quick_Silver | 3129.3 | Active | 
+[NOVA]War_Drum | 880.2 | Active | 2
+[SKUL]Night_Owl | 2515.0 | Active | 
+Moon_Blade | 1450.0 | Active | 1
+[DUSK]Void_Walker | 2923.4 | Active | 0
+[ORDA]Steel_Rat | 2445.0 | Active | 1
+[EAGLE]Old_Nick | 1547.0 | Broken | 3
+[]Ghost_Rider | 1610.0 | Broken | 0
+[STORM]Ghost_Rider | 1688.67 | Active | 3
+[VIPER]Lady_Vex | 3002.8 | Active | 2
+[NOVA]Bone_King | 2639.7 | Active | 4
+[ORDA]Hex_Witch | 790.8 | Active | 4
+[ORDA]Red_Baron | 1781.0 | Broken | 4
+[x1]Thorn_Bush | 900.0 | Active | 1
+[ORDA]Hex_Witch | 2728.0 | Active | 3
+[WOLF]Blaze_Runner | 2944.0 | Active | 4
+[WOLF]Red_Baron | 840.0 | Active | 1
+[WOLF]Steel_Rat | 2551.85 | Active | 1
+[eagle]Ember_Wyrm | 1700.0 | Active | 2
+[VIPER]Bone_King | 2875.0 | Active | 2
+[DUSK]Moon_Blade | 1393.5 | Broken | 2
+[NOVA]Blaze_Runner | 1864.25 | Active | 3
+[SKUL]Sir_Kay | 2842.9 | Broken | 1
+[ORDA]Red_Baron | 2396.9 | Active | 1
+[NOVA]Hex_Witch | 2777.0 | Active | 
+[[EAGLE]]Cold_Snap | 1280.0 | Active | 1
+[WOLF]Lady_Vex | 1397.0 | Active | 0
+[EAGLE]Dark[Angel] | 1540.5 | Active | 2
+[RAVEN]Pipe|Man | 1490.0 | Active | 1
+[IRON]Frost_Mage | 1502.1 | Active | 
+[DUSK]Ghost_Rider | 1955.0 | Active | 1
+[RAVEN]Dark_Angel | 3336.0 | Active | 1
+[STORM]Rune_Seer | 1213.26 | Active | 1
+[WOLF]Lone_Star | 1616.0 | Active | 4
+[DUSK]Lone_Star | 1866.0 | Active | 2
+[ОРДА]Вася_Пупкин | 2100.0 | Active | 2
+[SKUL]💀Reaper | 1333.33 | Broken | 1
+[IRON]  Bright_Spear  |1400.0|Active|2
+[NOVA]Ghost_Rider | 3716.83 | Active | 1
+[EAGLE]Old_Nick | 829.74 | Broken | 
+[IRON]Mud_Golem	|	1500.0	|	Active	|	1
+[DUSK]Silent_Bow | 3372.02 | Active | 4
+[STORM]Sky_Lance | 1600.0 | Active   | 1
+[VIPER]Shadow_Fox | 404.0 | Active | 4
+[STORM]Rune_Seer | 1700.0 | Active | 2 | 7
+[VIPER]Old_Nick | 1800.0
+2026-09-05 21:14:03 [VIPER]Old_Nick | 1800.0 | Active | 1
+[DUSK]Dark_Angel | 1540.5 | Active | 2
+[DUSK]Ghost_Rider | 1244.0 | Active | 
+[EAGLE]Lady_Vex | 3733.52 | Active | 
+[EAGLE]Dark_Angel | 1540.5 | Active | 2
+[WOLF]Silent_Bow | 2553.0 | Broken | 
+[NOVA]Sky_Lance | 3011.39 | Active | 1
+[EAGLE]Void_Walker | 1263.0 | Broken | 1
+[NOVA]Night_Owl | 1100.0 | Broken | 1
+[VIPER]Night_Owl | 1443.6 | Active | 1
+[IRON]Ember_Wyrm | 640.04 | Active | 1
+[EAGLE]Grim_Reaper | 1466.0 | Active | 2
+[IRON]Old_Nick | 3580.8 | Broken | 1
+[NOVA]War_Drum | 3356.2 | Active | 4
+[WOLF]Cold_Snap | 574.2 | Active | 4
+[STORM]Frost_Mage | 3413.0 | Broken | 4
+[SKUL]Rune_Seer | 1235.86 | Active | 
+[NOVA]Night_Owl | 1100.0 | Active | 1
+[WOLF]Frost_Mage | 1800.0 | Active | 02
+[NOVA]Thorn_Bush | 462.0 | Broken | 3
+[EAGLE]Sir_Kay | 691.0 | Active | 2
+[ORDA]Void_Walker | 1250.0 | Active | 0 | 3 || ||||||||||||||||||||||||||||||||||
